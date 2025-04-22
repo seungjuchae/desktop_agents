@@ -1,0 +1,13 @@
+.env
+test/
+output/
+__pycache__/
+env/
+
+
+
+observers/
+shared/
+dist/
+actions/
+OmniParser/
